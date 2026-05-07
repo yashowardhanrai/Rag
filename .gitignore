@@ -1,0 +1,50 @@
+# Virtual Environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Streamlit cache
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Qdrant database
+qdrant_data/
+
+# Uploaded PDFs
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# HuggingFace cache
+.cache/
+huggingface/
+
+# Torch cache
+torch_cache/
+
+# Temporary files
+temp/
+tmp/
